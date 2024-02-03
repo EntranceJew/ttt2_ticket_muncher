@@ -22,9 +22,11 @@ ENT.CanHavePrints = true
 ENT.DamageFromOwner = false
 ENT.StomachCapacity = 20
 ENT.DigestRate = 1 / 10
-ENT.DigestFreq = 1 / 33 -- in seconds
+-- in seconds
+ENT.DigestFreq = 1 / 33
 ENT.DigestToCreditRate = 1
-ENT.ProgressToCredits = 60 -- progress is a ratio of an ammo box's ammo over its max ammo
+-- progress is a ratio of an ammo box's ammo over its max ammo
+ENT.ProgressToCredits = 60
 
 ENT.NextCredit = 0
 ENT.CreditRate = 1
