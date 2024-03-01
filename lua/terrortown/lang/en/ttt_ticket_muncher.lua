@@ -10,7 +10,7 @@ L["ttt_ticket_muncher_short_desc"] = "The ticket muncher slowly chews over time"
 L["ttt_ticket_muncher_credits"] = "Press [{usekey}] to receive {n} processed credit(s)."
 
 L["ttt_ticket_muncher_broken"] = "Your Ticket Muncher has been destroyed!"
-L["ttt_ticket_muncher_help"] = "Places the Ticket Muncher."
+L["ttt_ticket_muncher_help"] = "Place the Ticket Muncher"
 
 L["ttt_ticket_muncher_desc"] = [[
 Allows people to convert ammo to credits when placed.
